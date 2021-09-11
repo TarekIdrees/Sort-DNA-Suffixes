@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1621349062 source:c:\users\sfahg\onedrive\desktop\bioinfromatics-3-2\biological sequnece analysis\labs\lab 2\suffix array\main.cpp
+	<iostream>
+
+1621969742 source:c:\users\sfahg\onedrive\desktop\assignment 1\suffix array\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<chrono>
+
+1621969742 source:c:\users\sfahg\onedrive\desktop\bioinfromatics-3-2\biological sequnece analysis\assignment 1\suffix array\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<chrono>
+
